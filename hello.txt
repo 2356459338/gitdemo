@@ -14,6 +14,10 @@ hello git!
 hello git!
 hello git!  w123132qweqe
 12312312312313213132
+qweqewqeqe
 hello git!
+<<<<<<< HEAD
 sadasdada 
 master
+=======
+>>>>>>> tester
